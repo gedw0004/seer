@@ -1,0 +1,62 @@
+42021-12-16 13:44:04	INFORMATION		Executing Rake algorithm
+2021-12-16 13:44:34	INFORMATION		Executing Rake algorithm
+2021-12-16 13:44:52	INFORMATION		Executing Rake algorithm
+2021-12-16 13:45:09	INFORMATION		Executing Rake algorithm
+2021-12-16 14:02:22	INFORMATION		Executing Rake algorithm for: 'Initialization of this field is prone to deadlocks'
+2021-12-16 14:02:38	INFORMATION		Executing Rake algorithm for: 'prone to deadlocks. The field must be'
+2021-12-16 14:33:46	INFORMATION		Executing Rake algorithm for: 'Initialization of this field is prone to deadlocks'
+2021-12-16 14:33:47	INFORMATION		Executing Rake algorithm for: 'prone to deadlocks. The field must be'
+2021-12-16 14:33:48	INFORMATION		Keyword match = 0.0
+2021-12-16 14:33:48	INFORMATION		Stem match = 0.0
+2021-12-16 14:35:06	INFORMATION		Executing Rake algorithm for: 'Initialization of this field is prone to deadlocks'
+2021-12-16 14:35:07	INFORMATION		Executing Rake algorithm for: 'prone to deadlocks. The field must be'
+2021-12-16 14:36:52	INFORMATION		Keyword match = 0.0
+2021-12-16 14:36:52	INFORMATION		Stem match = 0.0
+2021-12-16 14:37:33	INFORMATION		Executing Rake algorithm for: 'Initialization of this field is prone to deadlocks'
+2021-12-16 14:37:34	INFORMATION		Executing Rake algorithm for: 'prone to deadlocks. The field must be'
+2021-12-16 14:37:34	INFORMATION		Keyword match = 0.75
+2021-12-16 14:37:34	INFORMATION		Stem match = 0.75
+2021-12-16 14:41:31	INFORMATION		Executing Rake algorithm for: 'in the summer that you came there was something eating everyone'
+2021-12-16 14:41:32	INFORMATION		Executing Rake algorithm for: 'and the sunshine fund was low we couldn't greet you with a simple hello'
+2021-12-16 14:41:33	INFORMATION		Keyword match = 0.0
+2021-12-16 14:41:33	INFORMATION		Stem match = 0.0
+2021-12-16 14:42:57	INFORMATION		Executing Rake algorithm for: 'i once was a weaker soldier hanging in the war'
+2021-12-16 14:42:58	INFORMATION		Executing Rake algorithm for: 'my kind of soldier you can ride on my shoulders when you've won'
+2021-12-16 14:42:58	INFORMATION		Keyword match = 0.0
+2021-12-16 14:42:58	INFORMATION		Stem match = 0.0
+2021-12-16 14:43:19	INFORMATION		Executing Rake algorithm for: 'i once was a weaker soldier hanging in the war'
+2021-12-16 14:43:19	INFORMATION		Executing Rake algorithm for: 'my kind of soldier you can ride on my shoulders when you've won'
+2021-12-16 14:43:52	INFORMATION		Keyword match = 0.0
+2021-12-16 14:44:56	INFORMATION		Stem match = 0.0
+2021-12-16 14:45:22	INFORMATION		Executing Rake algorithm for: 'i once was a weaker soldier hanging in the war'
+2021-12-16 14:45:23	INFORMATION		Executing Rake algorithm for: 'you were a weaker soldier fighting a war'
+2021-12-16 14:45:24	INFORMATION		Keyword match = 1.0
+2021-12-16 14:45:24	INFORMATION		Stem match = 1.0
+2021-12-16 14:45:58	INFORMATION		Executing Rake algorithm for: 'i once was a weaker soldier hanging in the war'
+2021-12-16 14:45:58	INFORMATION		Executing Rake algorithm for: 'you were a weaker soldier fighting a war'
+2021-12-16 14:46:37	INFORMATION		Keyword match = 1.0
+2021-12-16 14:46:37	INFORMATION		Stem match = 1.0
+2021-12-16 14:47:10	INFORMATION		Executing Rake algorithm for: 'i once was a weaker soldier hanging in the war'
+2021-12-16 14:47:29	INFORMATION		Executing Rake algorithm for: 'you were a weaker soldier fighting a war'
+2021-12-16 14:49:15	INFORMATION		Keyword match = 1.0
+2021-12-16 14:49:15	INFORMATION		Stem match = 1.0
+2021-12-16 14:56:06	INFORMATION		Executing Rake algorithm for: 'i once was a weaker soldier hanging in the war'
+2021-12-16 14:56:07	INFORMATION		Executing Rake algorithm for: 'you were a weaker soldier fighting a war'
+2021-12-16 14:56:07	INFORMATION		Keyword match = 1.0
+2021-12-16 14:56:07	INFORMATION		Stem match = 1.0
+2021-12-16 14:56:07	INFORMATION		Combined match = 1.0
+2021-12-16 14:57:37	INFORMATION		Executing Rake algorithm for: 'the gold heart mountaintop queen directory'
+2021-12-16 14:57:37	INFORMATION		Executing Rake algorithm for: 'pink mountaintops'
+2021-12-16 14:57:38	INFORMATION		Keyword match = 0.0
+2021-12-16 14:57:38	INFORMATION		Stem match = 0.0
+2021-12-16 14:57:38	INFORMATION		Combined match = 0.0
+2021-12-16 14:58:40	INFORMATION		Executing Rake algorithm for: 'we wish you a merry christmas'
+2021-12-16 14:58:41	INFORMATION		Executing Rake algorithm for: 'i wanna wish you a merry christmas'
+2021-12-16 14:58:41	INFORMATION		Keyword match = 1.0
+2021-12-16 14:58:41	INFORMATION		Stem match = 1.0
+2021-12-16 14:58:41	INFORMATION		Combined match = 1.0
+2021-12-16 15:18:39	INFORMATION		Executing Rake algorithm for: 'Users are unable to connect to WVD (Prod and QA) - Global'
+2021-12-16 15:18:40	INFORMATION		Executing Rake algorithm for: 'Unable to connect to WVD - APAC'
+2021-12-16 15:18:40	INFORMATION		Keyword match (unscored) = 0.16666666666666666
+2021-12-16 15:18:40	INFORMATION		Stem match (unscored) = 0.16666666666666666
+2021-12-16 15:18:40	INFORMATION		Combined match (unscored) = 0.16666666666666666
